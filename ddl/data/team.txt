@@ -1,0 +1,64 @@
+Name	AYTerm	Xfactor	Title
+IDMH	2013_1	factor	Integral Design-Mobile Herbidex
+FBS	2013_1	factor	IS480 Fiona/Benjamin-IS480 system III
+BP	2013_1	factor	BP - Hyperlapse visualisation of global shipping traffic
+SPSFS	2013_1	factor	SingHealth Polyclinics-SingHealth First Shots
+SMITMA	2013_1	factor	SMU Mindfulness Initiative-ReFokus Meditation App
+LGF	2013_1	factor	Lefty Group-FrontRunner
+VISA	2013_1	factor	VISA-lab
+VISAL	2013_1	factor	VISA-lab
+PLAB	2013_1	factor	Prudential-lab 
+AIAL	2013_1	factor	AIA-lab
+AXAL	2013_1	factor	AXA-lab
+GI	2013_1	factor	Giant Inventory
+PI	2013_1	factor	Prime Inventory
+ISETAN	2013_1	factor	Isetan Inventory
+MAI	2013_1	factor	Mobile Air Inventory
+HIIAT	2013_2	factor	Hashmeta-Instagram Influencer & Analysis tool
+JLRTPC	2013_2	factor	Japher Lim-Robotic toys of popular characters.
+FBICSP2013	2013_2	factor	Francesco Biondelli ITSEA Consulting-SaaS Platform for Financial Planning
+ADMVS	2013_2	factor	Accenture Digital-Museum Visitor System
+GWP	2013_2	factor	GFA-Web-based Platform for GFA
+CAT	2013_2	factor	CapitalMalls Asia-Tracking of moving objects using multi-camera views
+OCBCL	2013_2	factor	OCBC-lab
+BOCL	2013_2	factor	BOC-lab
+GEL	2013_2	factor	Great Eastern Lab
+TML	2013_2	factor	Tokio Marine Lab
+CIMBL2	2013_2	factor	CIMB-lab 2
+VISAL2	2013_2	factor	VISA-lab 2
+BDI	2013_2	factor	Best Denki Inventory
+AHI	2013_2	factor	Audio House Inventory
+JMI	2013_2	factor	Jason's Market Inventory
+SCBI	2014_1	factor	Standard Chartered Bank - iLab@SMU
+SMUAH	2014_1	factor	SMU-Alexandra Health T-Lab
+NUSL	2014_1	factor	NUS-live lab
+SMUAH2	2014_1	factor	SMU-Alexandra Health T-Lab 2
+TTSHL	2014_1	factor	TTS-Health Lab
+DBSL	2014_1	factor	DBS-lab
+UOBL	2014_1	factor	UOB-lab
+RHBL	2014_1	factor	RHB-lab
+AL	2014_1	factor	Amex-lab
+JCBL	2014_1	factor	JCB-lab
+NTUCI	2014_1	factor	NTUC Inventory
+CI	2014_1	factor	Courts Inventory
+POI	2014_1	factor	Popular Inventory
+SSI	2014_1	factor	Sheng Shiong  Inventory
+CSI	2014_1	factor	Cold Storage  Inventory
+MBL	2014_2	factor	Maybank-lab
+RWSCM	2014_2	factor	RWS-crowd management
+SCE	2014_2	factor	Starhub-customer experience
+BP	2014_2	factor	BP - Hyperlapse visual-analytics of global shipping traffic 
+FBICSP2014	2014_2	factor	Francesco Biondelli ITSEA Consulting-SaaS Platform 2
+BL	2014_2	factor	Barclays-lab
+HSBCL	2014_2	factor	HSBC-lab
+POSBL	2014_2	factor	POSB-lab
+MASTER	2014_2	factor	Master-lab
+DL	2014_2	factor	Diners-lab
+NTUCIL	2014_2	factor	NTUC Income Lab
+AL	2014_2	factor	Aviva Lab
+UOBL2	2014_2	factor	UOB-lab 2
+RHBL2	2014_2	factor	RHB-lab 2
+AMEXL2	2014_2	factor	Amex-lab 2
+PSLove	2015_1	love	3DTeamTank
+6Sigma	2015_1	Deploy	IS480 MSII
+Excellent	2015_1	Deploy	\N

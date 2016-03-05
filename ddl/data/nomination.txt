@@ -1,0 +1,18 @@
+Reason 	winner	Team_name	AYTerm	Email	Award_name
+hard working	1	IDMH	2013_1	aang@smu.edu.sg	Best IS480 Project
+good performance	0	BP	2013_1	woow@smu.edu.sg	Best IS480 Project
+creativity	0	SPSFS	2013_1	amin@smu.edu.sg	Saas Innovation Award
+effectiveness	1	VISA	2013_1	jian@smu.edu.sg	Saas Innovation Award
+good performance	1	JLRTPC	2013_2	brow@smu.edu.sg	Best IS480 Project
+creativity	0	FBICSP2013	2013_2	nurp@smu.edu.sg	Best IS480 Project
+hard working	0	ADMVS	2013_2	brow@smu.edu.sg	Best IS480 Project
+good performance	1	GWP	2013_2	gtan@smu.edu.sg	DSO Award
+well executed	0	AHI	2013_2	gtan@smu.edu.sg	DSO Award
+creativity	0	SCBI	2014_1	gohk@smu.edu.sg	DSO Award
+effectiveness	1	SMUAH	2014_1	jian@smu.edu.sg	DSO Award
+creativity	0	NUSL	2014_1	lian@smu.edu.sg	Saas Innovation Award	
+effectiveness	1	SMUAH2	2014_1	gohk@smu.edu.sg	Saas Innovation Award	
+creativity	0	MBL	2014_2	lool@smu.edu.sg	Best IS480 Value to Sponsor	
+effectiveness	1	RWSCM	2014_2	gtan@smu.edu.sg	Best IS480 Value to Sponsor	
+effectiveness	1	SCE	2014_2	nurp@smu.edu.sg	DSO Award	
+good performance	0	UOBL2	2014_2	achi@smu.edu.sg	DSO Award	

@@ -1,0 +1,19 @@
+Award-name	Name	AYTerm
+DSTA Award	SMUAH	2014_1
+DSO Award	GWP	2013_2
+Saas Innovation Award	FBICSP2014	2014_2
+DSO Award	ADMVS	2013_2
+DSTA Award	NUSL	2014_1
+Saas Innovation Award	SCE	2014_2
+DSO Award	SPSFS	2013_1
+DSO Award	LGF	2013_1
+Lien Award	JLRTPC	2013_2
+Gong Award	POSBL	2014_2
+Chong Award	CAT	2013_2
+Chong Award	CI	2014_1
+Gong Award	DL	2014_2
+Astar Award	GEL	2013_2
+Loonin Award	CSI	2014_1
+Gong Award	AL	2014_2
+CSIT Award	AIAL	2013_1
+Saas Innovation Award	BDI	2013_2

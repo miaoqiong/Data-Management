@@ -1,0 +1,30 @@
+TeamName	AYTerm	Email	AwardName	VoteEmail
+IDMH	2013_1	aang@smu.edu.sg	Best IS480 Project	aang@smu.edu.sg
+IDMH	2013_1	aang@smu.edu.sg	Best IS480 Project	amin@smu.edu.sg
+IDMH	2013_1	aang@smu.edu.sg	Best IS480 Project	jian@smu.edu.sg
+BP	2013_1	woow@smu.edu.sg	Best IS480 Project	woow@smu.edu.sg
+SPSFS	2013_1	amin@smu.edu.sg	Saas Innovation Award	amin@smu.edu.sg
+VISA	2013_1	jian@smu.edu.sg	Saas Innovation Award	jian@smu.edu.sg
+JLRTPC	2013_2	brow@smu.edu.sg	Best IS480 Project	gtan@smu.edu.sg
+JLRTPC	2013_2	brow@smu.edu.sg	Best IS480 Project	brow@smu.edu.sg
+JLRTPC	2013_2	brow@smu.edu.sg	Best IS480 Project	nurp@smu.edu.sg
+FBICSP2013	2013_2	nurp@smu.edu.sg	Best IS480 Project	brow@smu.edu.sg
+FBICSP2013	2013_2	nurp@smu.edu.sg	Best IS480 Project	gtan@smu.edu.sg
+ADMVS	2013_2	brow@smu.edu.sg	Best IS480 Project	nurp@smu.edu.sg
+GWP	2013_2	gtan@smu.edu.sg	DSO Award	gtan@smu.edu.sg
+GWP	2013_2	gtan@smu.edu.sg	DSO Award	brow@smu.edu.sg
+SCBI	2014_1	gohk@smu.edu.sg	DSO Award	gohk@smu.edu.sg
+SMUAH	2014_1	jian@smu.edu.sg	DSO Award	jian@smu.edu.sg
+SMUAH	2014_1	jian@smu.edu.sg	DSO Award	gohk@smu.edu.sg
+NUSL	2014_1	lian@smu.edu.sg	Saas Innovation Award	lian@smu.edu.sg
+SMUAH2	2014_1	gohk@smu.edu.sg	Saas Innovation Award	gohk@smu.edu.sg
+MBL	2014_2	lool@smu.edu.sg	Best IS480 Value to Sponsor	gtan@smu.edu.sg	
+RWSCM	2014_2	gtan@smu.edu.sg	Best IS480 Value to Sponsor	nurp@smu.edu.sg
+RWSCM	2014_2	gtan@smu.edu.sg	Best IS480 Value to Sponsor	achi@smu.edu.sg
+RWSCM	2014_2	gtan@smu.edu.sg	Best IS480 Value to Sponsor	lool@smu.edu.sg
+SCE	2014_2	nurp@smu.edu.sg	DSO Award	lool@smu.edu.sg
+SCE	2014_2	nurp@smu.edu.sg	DSO Award	gtan@smu.edu.sg
+SCE	2014_2	nurp@smu.edu.sg	DSO Award	achi@smu.edu.sg
+SCE	2014_2	nurp@smu.edu.sg	DSO Award	nurp@smu.edu.sg
+UOBL2	2014_2	achi@smu.edu.sg	DSO Award	gtan@smu.edu.sg
+UOBL2	2014_2	achi@smu.edu.sg	DSO Award	lool@smu.edu.sg

@@ -1,0 +1,18 @@
+Email	Name	OfficeNumber	   
+jian@smu.edu.sg	JIANG Zhenhui, Jack 	651 67371
+lian@smu.edu.sg	LIANG Zhenkai 	651 61226
+aang@smu.edu.sg	ANG Hwee Ying, Agnes 	651 65242
+woow@smu.edu.sg	WOO Wen Si 	651 64426
+amin@smu.edu.sg	Aminah Ayu 	651 67966   
+lool@smu.edu.sg	LOO Line Fong 	651 64481
+gtan@smu.edu.sg	TAN Soon Huat, Gary 	651 66276
+achi@smu.edu.sg	CHIEW Mahn Ling, Adele 	651 62728
+arif@smu.edu.sg	Nur Arifah Bte Mukaral 	651 66733
+brow@smu.edu.sg	BROWN, Michael Scott 	651 67097
+nurp@smu.edu.sg	Nurpuspawati Bte Sulaiman 	651 64242
+gohk@smu.edu.sg	GOH Khim Yong 	651 62832
+alan@smu.edu.sg	Alan Tang 	651 62832
+maxs@smu.edu.sg	Max Shawn 	651 62811
+chrisb@smu.edu.sg	Christopher Barn 	651 63332
+debin@smu.edu.sg	Debin Ho 	651 62422
+david@smu.edu.sg	David Zheng 	651 61232

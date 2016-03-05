@@ -1,0 +1,6 @@
+Checkpoint	MainObjective	Percentage
+Proposal	Evaluation of IS480 Proposal Scope	20
+Acceptance	Evaluation of the IS480 proposed project scope	20
+Midterm	Evaluation of the project midterm progress and to provide early feedback to the team members	20
+Final	Evaluation of the Final IS480 Application developed	30
+Presentation	Evaluation of the presentation	10

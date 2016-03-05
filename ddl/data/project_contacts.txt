@@ -1,0 +1,66 @@
+Email	Title
+Joshua@herbidex.com	Integral Design-Mobile Herbidex
+Misra@mpa.com	IS480 Fiona/Benjamin-IS480 system III
+Kyree@bp.com	BP - Hyperlapse visualisation of global shipping traffic
+Karl@singhealth.com	SingHealth Polyclinics-SingHealth First Shots
+Lee@smu.edu.sg	SMU Mindfulness Initiative-ReFokus Meditation App
+Zoe@lefty.com	Lefty Group-FrontRunner
+Casey@gmail.com	Hashmeta-Instagram Influencer & Analysis tool
+Raina@gmail.com	Japher Lim-Robotic toys of popular characters.
+Leila@gmail.com	Francesco Biondelli ITSEA Consulting-SaaS Platform for Financial Planning
+Ayla@accencture.com	Accenture Digital-Museum Visitor System
+Eve@gfa.com	GFA-Web-based Platform for GFA
+Fiona@cap.com	CapitalMalls Asia-Tracking of moving objects using multi-camera views
+chong@standchart.com	Standard Chartered Bank - iLab@SMU
+John@smu.edu.sg	SMU-Alexandra Health T-Lab
+Tom@nus.edu.sg	NUS-live lab
+John@smu.edu.sg	SMU-Alexandra Health T-Lab 2
+dick@tts.gov.sg	TTS-Health Lab
+harry@dbs.com	DBS-lab
+teow@maybank.com	Maybank-lab
+gamble@rws.com	RWS-crowd management
+candy@starhub.com	Starhub-customer experience
+Kyree@bp.com	BP - Hyperlapse visual-analytics of global shipping traffic 
+Leila@gmail.com	Francesco Biondelli ITSEA Consulting-SaaS Platform 2
+citi@cimb.com	CIMB-lab
+vincent@visa.com	VISA-lab
+pruddy@prudential.com	Prudential-lab 
+amy@aia.com	AIA-lab
+amila@axa.com	AXA-lab
+gigi@giant.com	Giant Inventory
+peter@prime.com	Prime Inventory
+isebel@isetan.com	Isetan Inventory
+manny@gmail.com	Mobile Air Inventory
+teow@ocbc.com	OCBC-lab
+loo@boc.com	BOC-lab
+nin@gmail.com	Great Eastern Lab
+lim@tokio.om	Tokio Marine Lab
+citi@cimb.com	CIMB-lab 2
+vincent@visa.com	VISA-lab 2
+david@denki.com	Best Denki Inventory
+hsien@audio.com	Audio House Inventory
+jason@gmail.com	Jason's Market Inventory
+sinyee@uob.com	UOB-lab
+tidur@rhb.com	RHB-lab
+makan@amex.com	Amex-lab
+wasabi@jcb.com	JCB-lab
+peterlim@ntuc.com	NTUC Inventory
+pamela@ntuc.com	NTUC Inventory
+bradley@courts.com	Courts Inventory
+bobo@popular.com	Popular Inventory
+lobo@gmail.com	Sheng Shiong  Inventory
+bobolobo@gmail.com	Cold Storage  Inventory
+jerome@barclays.com	Barclays-lab
+henderson@hsbc.com	HSBC-lab
+julia@posb.com	POSB-lab
+jedi@master.com	Master-lab
+chong@diners.com	Diners-lab
+yangyang@ntuc.com	NTUC Income Lab
+belle@aviva.com	Aviva Lab
+sinyee@uob.com	UOB-lab 2
+tidur@rhb.com	RHB-lab 2
+makan@amex.com	Amex-lab 2
+fionalee@smu.edu.sg	IS480 SSII
+fionalee@smu.edu.sg	IS480 MSII
+alex@k2.com	K2Platform
+jared@3dtt.com	3DTeamTank

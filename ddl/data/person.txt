@@ -1,0 +1,57 @@
+Email	Name	Department	Job_Title
+amila@axa.com	Amila	\N	\N
+amy@aia.com	Amy	HR	HR Manager
+Ayla@accencture.com	Ayla	IT department	Manager
+belle@aviva.com	Belle	IT department	Maintainer
+bobo@popular.com	Bobo	HR	HR Assistant
+bobolobo@gmail.com	Bobo Lobo	EDP team	Database Manager
+bradley@courts.com	Bradley	EDP team	Database Manager
+candy@starhub.com	Candy	IT department	Assistant
+Casey@gmail.com	Casey	HR	HR Manager
+chong@diners.com	Chong	IT department	Manager
+chong@standchart.com	chong	HR	HR Manager
+citi@cimb.com	Citi	HR	HR Manager
+david@denki.com	David	EDP team	Database Manager
+dick@tts.gov.sg	Dick	HR	HR Manager
+Eve@gfa.com	Eve	IT department	Assistant
+Fiona@cap.com	Fiona	IT department	Maintainer
+gamble@rws.com	Gamble	IT department	Manager
+gigi@giant.com	Gigi	EDP team	Database Maintainer
+harry@dbs.com	Harry	Global Service	Manager
+henderson@hsbc.com	Henderson	HR	HR Manager
+hsien@audio.com	Hien	EDP team	Database Maintainer
+isebel@isetan.com	Isebel	Global Service	Manager
+jason@gmail.com	Jason	HR	HR Manager
+jedi@master.com	Jedi	IT department	Manager
+jerome@barclays.com	Jerome	EDP team	Database Maintainer
+John@smu.edu.sg	John	EDP team	Database Manager
+Joshua@herbidex.com	Joshua	HR	HR Manager
+julia@posb.com	Julia	Global Service	Manager
+Karl@singhealth.com	Karl	HR	HR Manager
+Kyree@bp.com	Kyree	HR	HR Assistant
+Lee@smu.edu.sg	Lee	EDP team	Database Manager
+Leila@gmail.com	Leila	IT department	Manager
+lim@tokio.om	Lim	HR	HR Manager
+lobo@gmail.com	Lobo	HR	HR Manager
+loo@boc.com	Loo	IT department	Assistant
+makan@amex.com	Makan	IT department	Manager
+manny@gmail.com	Manny	IT department	Manager
+Misra@mpa.com	Misra	EDP team	Database Manager
+nin@gmail.com	Nin	\N	\N
+peter@prime.com	Peter	HR	HR Manager
+peterlim@ntuc.com	Peter Lim	HR	HR Manager
+pamela@ntuc.com	Pamela	IT department	IT manager
+pruddy@prudential.com	Pruddy	HR	HR Assistant
+Raina@gmail.com	Raina	Global Service	Manager
+sinyee@uob.com	Sinyee	Global Service	Manager
+teow@maybank.com	Teow	IT department	Manager
+teow@ocbc.com	Teow	IT department	Manager
+tidur@rhb.com	Tidur	IT department	Manager
+Tom@nus.edu.sg	Tom	EDP team	Database Maintainer
+vincent@visa.com	Vincent	EDP team	Database Manager
+wasabi@jcb.com	Wasabi	IT department	Assistant
+yangyang@ntuc.com	Yang yang	IT department	Assistant
+Zoe@lefty.com	Zoe	EDP team	Database Maintainer
+fionalee@smu.edu.sg	Fiona	SIS	Instructor
+alex@k2.com	Alex Tan	K2	Business Manager
+jared@3dtt.com	Jared Song	3DTeamTank	Technical Head

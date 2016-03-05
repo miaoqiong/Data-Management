@@ -1,0 +1,17 @@
+ayterm	email	   
+2013_1	aang@smu.edu.sg
+2013_1	woow@smu.edu.sg
+2013_1	amin@smu.edu.sg
+2013_1	jian@smu.edu.sg
+2013_2	gtan@smu.edu.sg
+2013_2	brow@smu.edu.sg
+2013_2	nurp@smu.edu.sg
+2014_1	gohk@smu.edu.sg
+2014_1	jian@smu.edu.sg
+2014_1	lian@smu.edu.sg
+2014_2	lool@smu.edu.sg
+2014_2	gtan@smu.edu.sg
+2014_2	nurp@smu.edu.sg
+2014_2	achi@smu.edu.sg
+2015_1	chrisb@smu.edu.sg
+2015_1	david@smu.edu.sg

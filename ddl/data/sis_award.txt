@@ -1,0 +1,8 @@
+Award-name	SourceFund	Taxable
+Best IS480 Project	Dean's Teaching Allocation	1
+Best IS480 Project Management	Dean's Teaching Allocation	1
+Best IS480 Value to Sponsor	Dean's Teaching Allocation	1
+Best IS480 Technical Innovation	Faculty Dart fund	0
+Best IS480 Video	Faculty Dart fund	0
+Most Popular IS480 Poster	Faculty Dart fund	0
+Best IS480 Marketing 	Dean's Dart fund	0

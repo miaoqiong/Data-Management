@@ -1,0 +1,19 @@
+Name	Prize	shortDesc	SponsorType
+Best IS480 Project	1000	Overall best IS480 project as voted by supervisors. Team names will be engraved on the IS480 plague	SIS
+Best IS480 Project Management	600	"Managing stakeholders, project schedule/plan/metric and deliverables"	SIS
+Best IS480 Value to Sponsor	800	Providing most value add to the sponsor/industry/community in terms of efficiency/bottom line/strategy/etc.	SIS
+Best IS480 Technical Innovation	800	"Breaking new grounds in technical complexity, sophistication and elegance"	SIS
+Best IS480 Video	500	Most compelling/memorable video on the impact of the project	SIS
+Most Popular IS480 Poster	500	Most popular project poster and poster booth as voted by participants of poster day	SIS
+Best IS480 Marketing 	500	Best Marketing & presentation	SIS
+DSO Award	1000	ground breaking analytics	DONOR
+Lien Award	2000	Innovativeness	DONOR
+DSTA Award	1500	User experience Award	DONOR
+Saas Innovation Award	1200	Innovativeness	DONOR
+CSIT Award	500	Innovativeness	DONOR
+Astar Award	1000	Innovativeness	DONOR
+Chong Award	2000	Innovativeness	DONOR
+Loonin Award	1500	Innovativeness	DONOR
+Gong Award	2000	utility	DONOR
+Minh Award	1200	utility	DONOR
+Ducc Award	1000	utility	DONOR

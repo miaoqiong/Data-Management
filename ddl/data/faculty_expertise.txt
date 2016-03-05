@@ -1,0 +1,18 @@
+Email	Expertise
+jian@smu.edu.sg	data mining
+lian@smu.edu.sg	security
+aang@smu.edu.sg	computer vision
+woow@smu.edu.sg	machine learning
+amin@smu.edu.sg	machine learning
+lool@smu.edu.sg	social network
+gtan@smu.edu.sg	security
+achi@smu.edu.sg	database
+arif@smu.edu.sg	database
+brow@smu.edu.sg	computer vision
+nurp@smu.edu.sg	social networking
+gohk@smu.edu.sg	data mining
+alan@smu.edu.sg	analytics
+maxs@smu.edu.sg	mobile security
+chrisb@smu.edu.sg	analytics
+debin@smu.edu.sg	social networking
+david@smu.edu.sg	logistics

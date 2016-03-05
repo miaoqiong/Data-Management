@@ -1,0 +1,12 @@
+Award-name	name	criteria
+DSO Award	DSO	ground breaking analytics as assessed by judges
+Lien Award	Lien	Innovativeness  as assessed by judges
+DSTA Award	DSTA	User experience Award  as voted by users
+Saas Innovation Award	Saas	Innovativeness  as assessed by judges
+CSIT Award	CSIT	impact of analytics as assessed by judges
+Astar Award	Astar	ground breaking analytics as assessed by judges
+Chong Award	Chong	utility of analytics as assessed by judges
+Loonin Award	Loonin	ground breaking analytics as assessed by judges
+Gong Award	Gong	utility of system
+Minh Award	Minh	utility of system
+Ducc Award	Ducc	utility of system

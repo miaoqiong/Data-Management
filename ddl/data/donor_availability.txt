@@ -1,0 +1,15 @@
+AYTerm	Award-name
+2013_1	DSO Award
+2013_2	DSO Award
+2013_2	Lien Award
+2014_1	DSTA Award
+2014_2	Saas Innovation Award
+2013_2	Saas Innovation Award
+2013_1	CSIT Award
+2013_2	Astar Award
+2013_2	Chong Award
+2014_1	Chong Award
+2014_1	Loonin Award
+2014_2	Gong Award
+2013_2	Minh Award
+2013_2	Ducc Award

@@ -1,0 +1,183 @@
+Name	AYTerm	Rname	Email	AssignDate
+AIAL	2013_1	Supervisor	aang@smu.edu.sg	5/8/2013
+AIAL	2013_1	Primary Reviewer	woow@smu.edu.sg	5/8/2013
+AIAL	2013_1	Secondary Reviewer	amin@smu.edu.sg	5/8/2013
+AXAL	2013_1	Supervisor	jian@smu.edu.sg	5/8/2013
+AXAL	2013_1	Primary Reviewer	woow@smu.edu.sg	5/8/2013
+AXAL	2013_1	Secondary Reviewer	amin@smu.edu.sg	5/8/2013
+BP	2013_1	Secondary Reviewer	aang@smu.edu.sg	5/8/2013   
+BP	2013_1	Primary Reviewer	amin@smu.edu.sg	5/8/2013
+BP	2013_1	Supervisor	woow@smu.edu.sg	5/8/2013
+FBS	2013_1	Supervisor	aang@smu.edu.sg	5/8/2013
+FBS	2013_1	Secondary Reviewer	amin@smu.edu.sg	5/8/2013
+FBS	2013_1	Primary Reviewer	woow@smu.edu.sg	5/8/2013
+GI	2013_1	Supervisor	jian@smu.edu.sg	5/8/2013
+GI	2013_1	Primary Reviewer	woow@smu.edu.sg	5/8/2013
+GI	2013_1	Secondary Reviewer	amin@smu.edu.sg	5/8/2013
+IDMH	2013_1	Secondary Reviewer	aang@smu.edu.sg	5/8/2013
+IDMH	2013_1	Supervisor	amin@smu.edu.sg	5/8/2013
+IDMH	2013_1	Primary Reviewer	woow@smu.edu.sg	5/8/2013
+ISETAN	2013_1	Supervisor	amin@smu.edu.sg	5/8/2013
+ISETAN	2013_1	Primary Reviewer	aang@smu.edu.sg	5/8/2013
+ISETAN	2013_1	Secondary Reviewer	jian@smu.edu.sg	5/8/2013
+LGF	2013_1	Primary Reviewer	aang@smu.edu.sg	5/8/2013
+LGF	2013_1	Supervisor	jian@smu.edu.sg	5/8/2013
+LGF	2013_1	Secondary Reviewer	woow@smu.edu.sg	5/8/2013
+MAI	2013_1	Supervisor	amin@smu.edu.sg	5/8/2013
+MAI	2013_1	Primary Reviewer	aang@smu.edu.sg	5/8/2013
+MAI	2013_1	Secondary Reviewer	jian@smu.edu.sg	5/8/2013
+PI	2013_1	Supervisor	aang@smu.edu.sg	5/8/2013
+PI	2013_1	Primary Reviewer	woow@smu.edu.sg	5/8/2013
+PI	2013_1	Secondary Reviewer	amin@smu.edu.sg	5/8/2013
+PLAB	2013_1	Supervisor	jian@smu.edu.sg	5/8/2013
+PLAB	2013_1	Primary Reviewer	aang@smu.edu.sg	5/8/2013
+PLAB	2013_1	Secondary Reviewer	woow@smu.edu.sg	5/8/2013
+SMITMA	2013_1	Secondary Reviewer	aang@smu.edu.sg	5/8/2013
+SMITMA	2013_1	Supervisor	amin@smu.edu.sg	5/8/2013
+SMITMA	2013_1	Primary Reviewer	woow@smu.edu.sg	5/8/2013
+SPSFS	2013_1	Primary Reviewer	aang@smu.edu.sg	5/8/2013
+SPSFS	2013_1	Secondary Reviewer	amin@smu.edu.sg	5/8/2013
+SPSFS	2013_1	Supervisor	woow@smu.edu.sg	5/8/2013
+VISA	2013_1	Primary Reviewer	aang@smu.edu.sg	5/8/2013
+VISA	2013_1	Supervisor	jian@smu.edu.sg	5/8/2013
+VISA	2013_1	Secondary Reviewer	woow@smu.edu.sg	5/8/2013
+VISAL	2013_1	Supervisor	aang@smu.edu.sg	5/8/2013
+VISAL	2013_1	Primary Reviewer	amin@smu.edu.sg	5/8/2013
+VISAL	2013_1	Secondary Reviewer	jian@smu.edu.sg	5/8/2013
+ADMVS	2013_2	Secondary Reviewer	brow@smu.edu.sg	7/1/2014    
+ADMVS	2013_2	Supervisor	gtan@smu.edu.sg	7/1/2014
+ADMVS	2013_2	Primary Reviewer	nurp@smu.edu.sg	7/1/2014
+AHI	2013_2	Supervisor	gtan@smu.edu.sg	7/1/2014
+AHI	2013_2	Primary Reviewer	brow@smu.edu.sg	7/1/2014
+AHI	2013_2	Secondary Reviewer	nurp@smu.edu.sg	7/1/2014
+BDI	2013_2	Supervisor	gtan@smu.edu.sg	7/1/2014
+BDI	2013_2	Primary Reviewer	brow@smu.edu.sg	7/1/2014
+BDI	2013_2	Secondary Reviewer	nurp@smu.edu.sg	7/1/2014
+BOCL	2013_2	Supervisor	nurp@smu.edu.sg	7/1/2014
+BOCL	2013_2	Primary Reviewer	gtan@smu.edu.sg	7/1/2014
+BOCL	2013_2	Secondary Reviewer	brow@smu.edu.sg	7/1/2014
+CAT	2013_2	Supervisor	nurp@smu.edu.sg	7/1/2014
+CAT	2013_2	Primary Reviewer	gtan@smu.edu.sg	7/1/2014
+CAT	2013_2	Secondary Reviewer	brow@smu.edu.sg	7/1/2014	
+CIMBL2	2013_2	Supervisor	brow@smu.edu.sg	7/1/2014	
+CIMBL2	2013_2	Primary Reviewer	gtan@smu.edu.sg	7/1/2014	
+CIMBL2	2013_2	Secondary Reviewer	nurp@smu.edu.sg	7/1/2014	
+FBICSP2013	2013_2	Secondary Reviewer	brow@smu.edu.sg	7/1/2014	
+FBICSP2013	2013_2	Primary Reviewer	gtan@smu.edu.sg	7/1/2014	
+FBICSP2013	2013_2	Supervisor	nurp@smu.edu.sg	7/1/2014	
+GEL	2013_2	Supervisor	nurp@smu.edu.sg	7/1/2014	
+GEL	2013_2	Primary Reviewer	gtan@smu.edu.sg	7/1/2014	
+GEL	2013_2	Secondary Reviewer	brow@smu.edu.sg	7/1/2014	
+GWP	2013_2	Supervisor	brow@smu.edu.sg	7/1/2014	
+GWP	2013_2	Primary Reviewer	gtan@smu.edu.sg	7/1/2014	
+GWP	2013_2	Secondary Reviewer	nurp@smu.edu.sg	7/1/2014	
+HIIAT	2013_2	Primary Reviewer	brow@smu.edu.sg	7/1/2014	
+HIIAT	2013_2	Supervisor	gtan@smu.edu.sg	7/1/2014	
+HIIAT	2013_2	Secondary Reviewer	nurp@smu.edu.sg	7/1/2014	
+JLRTPC	2013_2	Supervisor	brow@smu.edu.sg	7/1/2014	
+JLRTPC	2013_2	Secondary Reviewer	gtan@smu.edu.sg	7/1/2014	
+JLRTPC	2013_2	Primary Reviewer	nurp@smu.edu.sg	7/1/2014	
+JMI	2013_2	Supervisor	gtan@smu.edu.sg	7/1/2014	
+JMI	2013_2	Primary Reviewer	brow@smu.edu.sg	7/1/2014	
+JMI	2013_2	Secondary Reviewer	nurp@smu.edu.sg	7/1/2014	
+OCBCL	2013_2	Supervisor	nurp@smu.edu.sg	7/1/2014	
+OCBCL	2013_2	Primary Reviewer	gtan@smu.edu.sg	7/1/2014	
+OCBCL	2013_2	Secondary Reviewer	brow@smu.edu.sg	7/1/2014	
+TML	2013_2	Supervisor	brow@smu.edu.sg	7/1/2014	
+TML	2013_2	Primary Reviewer	gtan@smu.edu.sg	7/1/2014	
+TML	2013_2	Secondary Reviewer	nurp@smu.edu.sg	7/1/2014	
+VISAL2	2013_2	Supervisor	brow@smu.edu.sg	7/1/2014	
+VISAL2	2013_2	Primary Reviewer	gtan@smu.edu.sg	7/1/2014	
+VISAL2	2013_2	Secondary Reviewer	nurp@smu.edu.sg	7/1/2014	
+NUSL	2014_1	Secondary Reviewer	gohk@smu.edu.sg	5/8/2014
+NUSL	2014_1	Primary Reviewer	jian@smu.edu.sg	5/8/2014
+NUSL	2014_1	Supervisor	lian@smu.edu.sg	5/8/2014
+SCBI	2014_1	Supervisor	gohk@smu.edu.sg	5/8/2014
+SCBI	2014_1	Primary Reviewer	jian@smu.edu.sg	5/8/2014
+SCBI	2014_1	Secondary Reviewer	lian@smu.edu.sg	5/8/2014
+SMUAH	2014_1	Primary Reviewer	gohk@smu.edu.sg	5/8/2014
+SMUAH	2014_1	Supervisor	jian@smu.edu.sg	5/8/2014
+SMUAH	2014_1	Secondary Reviewer	lian@smu.edu.sg	5/8/2014
+SMUAH2	2014_1	Supervisor	gohk@smu.edu.sg	5/8/2014
+SMUAH2	2014_1	Secondary Reviewer	jian@smu.edu.sg	5/8/2014
+SMUAH2	2014_1	Primary Reviewer	lian@smu.edu.sg	5/8/2014
+TTSHL	2014_1	Primary Reviewer	gohk@smu.edu.sg	5/8/2014
+TTSHL	2014_1	Supervisor	jian@smu.edu.sg	5/8/2014
+TTSHL	2014_1	Secondary Reviewer	lian@smu.edu.sg	5/8/2014	
+DBSL	2014_1	Supervisor	lian@smu.edu.sg	5/8/2014	
+DBSL	2014_1	Primary Reviewer	gohk@smu.edu.sg	5/8/2014	
+DBSL	2014_1	Secondary Reviewer	jian@smu.edu.sg	5/8/2014	
+UOBL	2014_1	Supervisor	lian@smu.edu.sg	5/8/2014	
+UOBL	2014_1	Primary Reviewer	gohk@smu.edu.sg	5/8/2014	
+UOBL	2014_1	Secondary Reviewer	jian@smu.edu.sg	5/8/2014	
+RHBL	2014_1	Supervisor	lian@smu.edu.sg	5/8/2014	
+RHBL	2014_1	Primary Reviewer	gohk@smu.edu.sg	5/8/2014	
+RHBL	2014_1	Secondary Reviewer	jian@smu.edu.sg	5/8/2014	
+AL	2014_1	Supervisor	lian@smu.edu.sg	5/8/2014	
+AL	2014_1	Primary Reviewer	gohk@smu.edu.sg	5/8/2014	
+AL	2014_1	Secondary Reviewer	jian@smu.edu.sg	5/8/2014	
+JCBL	2014_1	Supervisor	gohk@smu.edu.sg	5/8/2014	
+JCBL	2014_1	Primary Reviewer	jian@smu.edu.sg	5/8/2014	
+JCBL	2014_1	Secondary Reviewer	lian@smu.edu.sg	5/8/2014	
+NTUCI	2014_1	Supervisor	gohk@smu.edu.sg	5/8/2014	
+NTUCI	2014_1	Primary Reviewer	jian@smu.edu.sg	5/8/2014	
+NTUCI	2014_1	Secondary Reviewer	lian@smu.edu.sg	5/8/2014	
+CI	2014_1	Supervisor	gohk@smu.edu.sg	5/8/2014	
+CI	2014_1	Primary Reviewer	jian@smu.edu.sg	5/8/2014	
+CI	2014_1	Secondary Reviewer	lian@smu.edu.sg	5/8/2014	
+POI	2014_1	Supervisor	jian@smu.edu.sg	5/8/2014	
+POI	2014_1	Primary Reviewer	gohk@smu.edu.sg	5/8/2014	
+POI	2014_1	Secondary Reviewer	lian@smu.edu.sg	5/8/2014	
+SSI	2014_1	Supervisor	jian@smu.edu.sg	5/8/2014	
+SSI	2014_1	Primary Reviewer	gohk@smu.edu.sg	5/8/2014	
+SSI	2014_1	Secondary Reviewer	lian@smu.edu.sg	5/8/2014	
+CSI	2014_1	Supervisor	jian@smu.edu.sg	5/8/2014	
+CSI	2014_1	Primary Reviewer	gohk@smu.edu.sg	5/8/2014	
+CSI	2014_1	Secondary Reviewer	lian@smu.edu.sg	5/8/2014	
+AL	2014_2	Supervisor	nurp@smu.edu.sg	8/1/2015
+AL	2014_2	Primary Reviewer	lool@smu.edu.sg	8/1/2015
+AL	2014_2	Secondary Reviewer	gtan@smu.edu.sg	8/1/2015
+AMEXL2	2014_2	Supervisor	achi@smu.edu.sg	8/1/2015
+AMEXL2	2014_2	Primary Reviewer	gtan@smu.edu.sg	8/1/2015
+AMEXL2	2014_2	Secondary Reviewer	nurp@smu.edu.sg	8/1/2015
+BL	2014_2	Supervisor	gtan@smu.edu.sg	8/1/2015
+BL	2014_2	Primary Reviewer	nurp@smu.edu.sg	8/1/2015
+BL	2014_2	Secondary Reviewer	achi@smu.edu.sg	8/1/2015
+BP	2014_2	Supervisor	nurp@smu.edu.sg	8/1/2015
+BP	2014_2	Secondary Reviewer	gtan@smu.edu.sg	8/1/2015
+BP	2014_2	Primary Reviewer	lool@smu.edu.sg	8/1/2015
+DL	2014_2	Supervisor	nurp@smu.edu.sg	8/1/2015
+DL	2014_2	Primary Reviewer	lool@smu.edu.sg	8/1/2015
+DL	2014_2	Secondary Reviewer	gtan@smu.edu.sg	8/1/2015
+FBICSP2014	2014_2	Primary Reviewer	gtan@smu.edu.sg	8/1/2015	
+FBICSP2014	2014_2	Supervisor	lool@smu.edu.sg	8/1/2015	
+FBICSP2014	2014_2	Secondary Reviewer	nurp@smu.edu.sg	8/1/2015	
+HSBCL	2014_2	Supervisor	gtan@smu.edu.sg	8/1/2015	
+HSBCL	2014_2	Primary Reviewer	nurp@smu.edu.sg	8/1/2015	
+HSBCL	2014_2	Secondary Reviewer	achi@smu.edu.sg	8/1/2015	
+MASTER	2014_2	Supervisor	gtan@smu.edu.sg	8/1/2015	
+MASTER	2014_2	Primary Reviewer	nurp@smu.edu.sg	8/1/2015	
+MASTER	2014_2	Secondary Reviewer	achi@smu.edu.sg	8/1/2015	
+MBL	2014_2	Primary Reviewer	gtan@smu.edu.sg	8/1/2015	
+MBL	2014_2	Supervisor	lool@smu.edu.sg	8/1/2015	
+MBL	2014_2	Secondary Reviewer	nurp@smu.edu.sg	8/1/2015	
+NTUCIL	2014_2	Supervisor	nurp@smu.edu.sg	8/1/2015	
+NTUCIL	2014_2	Primary Reviewer	lool@smu.edu.sg	8/1/2015	
+NTUCIL	2014_2	Secondary Reviewer	gtan@smu.edu.sg	8/1/2015	
+POSBL	2014_2	Supervisor	gtan@smu.edu.sg	8/1/2015	
+POSBL	2014_2	Primary Reviewer	nurp@smu.edu.sg	8/1/2015	
+POSBL	2014_2	Secondary Reviewer	achi@smu.edu.sg	8/1/2015	
+RHBL2	2014_2	Supervisor	achi@smu.edu.sg	8/1/2015	
+RHBL2	2014_2	Primary Reviewer	gtan@smu.edu.sg	8/1/2015	
+RHBL2	2014_2	Secondary Reviewer	nurp@smu.edu.sg	8/1/2015	
+RWSCM	2014_2	Supervisor	gtan@smu.edu.sg	8/1/2015	
+RWSCM	2014_2	Secondary Reviewer	lool@smu.edu.sg	8/1/2015	
+RWSCM	2014_2	Primary Reviewer	nurp@smu.edu.sg	8/1/2015	
+SCE	2014_2	Secondary Reviewer	gtan@smu.edu.sg	8/1/2015	
+SCE	2014_2	Primary Reviewer	lool@smu.edu.sg	8/1/2015	
+SCE	2014_2	Supervisor	nurp@smu.edu.sg	8/1/2015	
+UOBL2	2014_2	Supervisor	achi@smu.edu.sg	8/1/2015	
+UOBL2	2014_2	Primary Reviewer	gtan@smu.edu.sg	8/1/2015	
+UOBL2	2014_2	Secondary Reviewer	nurp@smu.edu.sg	8/1/2015
+6Sigma	2015_1	Supervisor	chrisb@smu.edu.sg	8/8/2015	
+6Sigma	2015_1	Primary Reviewer	david@smu.edu.sg	8/8/2015

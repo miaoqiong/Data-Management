@@ -1,0 +1,14 @@
+PrjTitle	PrjRelTitle
+Francesco Biondelli ITSEA Consulting-SaaS Platform 2	Francesco Biondelli ITSEA Consulting-SaaS Platform for Financial Planning
+BP - Hyperlapse visual-analytics of global shipping traffic 	BP - Hyperlapse visualisation of global shipping traffic
+SMU-Alexandra Health T-Lab 2	SMU-Alexandra Health T-Lab
+CIMB-lab 2	CIMB-lab
+VISA-lab 2	VISA-lab
+UOB-lab 2	UOB-lab
+Amex-lab 2	Amex-lab
+RHB-lab 2	RHB-lab
+Audio House Inventory	Best Denki Inventory
+Cold Storage  Inventory	Isetan Inventory
+Isetan Inventory	NTUC Inventory
+NTUC Inventory	Prime Inventory
+NTUC Inventory	Sheng Shiong  Inventory

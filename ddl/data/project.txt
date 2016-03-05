@@ -1,0 +1,69 @@
+﻿Title	Sponsor_Company	Withdraw_Date	Term	Project_Brief
+Accenture Digital-Museum Visitor System	Accenture	\N	2013_2	To design and deliver a superior visitor experience for musuems
+AIA-lab	AIA	\N	2013_1	Analytics on customer data for policy recommendation
+Amex-lab	Amex	\N	2014_1	Analytics on customer data for card recommendation
+Amex-lab 2	Amex	\N	2014_2	Advanced Analytics on customer data for card recommendation
+Audio House Inventory	Audio House	\N	2013_2	Develop Inventory management System
+Aviva Lab	Aviva	\N	2014_2	Analytics on customer data for policy recommendation
+AXA-lab	AXA	\N	2013_1	Analytics on customer data for policy recommendation
+Barclays-lab	Barclays	\N	2014_2	Analytics on customer data for product recommendation
+Best Denki Inventory	Best Denki	\N	2013_2	Develop Inventory management System
+BOC-lab	BOC	\N	2013_2	Analytics on customer data for product recommendation
+BP - Hyperlapse visual-analytics of global shipping traffic 	BP	\N	2014_2	Stand-alone application visual analytics of shipping traffic on a world map.
+BP - Hyperlapse visualisation of global shipping traffic	BP	\N	2013_1	Create a stand-alone application to produce visualisations of shipping traffic on a world map.
+CapitalMalls Asia-Tracking of moving objects using multi-camera views	CapitalMalls Asia	\N	2013_2	develop a method for tracking objects in a network of views equipped with multiple IP Cameras
+CIMB-lab	CIMB	20/8/2013	2013_1	Analytics on customer data for product recommendation
+CIMB-lab 2	CIMB	\N	2013_2	Advanced Analytics on customer data for card recommendation
+Cold Storage  Inventory	Cold Storage	\N	2014_1	Develop Inventory management System
+Courts Inventory	Courts	\N	2014_1	Develop Inventory management System
+DBS-lab	DBS	\N	2014_1	Analytics on customer data for product recommendation
+Diners-lab	Diners	\N	2014_2	Analytics on customer data for card recommendation
+Francesco Biondelli ITSEA Consulting-SaaS Platform 2	Saas	\N	2014_2	Continued development of a SaaS platform (the “Platform”) to support and improve the financial planning activity for corporate clients based in Singapore.
+Francesco Biondelli ITSEA Consulting-SaaS Platform for Financial Planning	Saas	\N	2013_2	development of a SaaS platform (the “Platform”) to support and improve the financial planning activity for corporate clients based in Singapore.
+GFA-Web-based Platform for GFA	GFA	\N	2013_2	Designing a data collection and management process
+Giant Inventory	Giant	\N	2013_1	Develop Inventory management System
+Great Eastern Lab	Great Eastern	\N	2013_2	Analytics on customer data for policy recommendation
+Hashmeta-Instagram Influencer & Analysis tool	Hashmeta	\N	2013_2	1) Finding the right influencers 2) Self and Competitor analysis in Instagram
+HSBC-lab	HSBC	\N	2014_2	Analytics on customer data for product recommendation
+Integral Design-Mobile Herbidex	Herbidex	\N	2013_1	create a mobile application.
+IS480 Fiona/Benjamin-IS480 system III	MPA	\N	2013_1	Enhance the workflow for IS480 (mainly automate and validate the process)
+Isetan Inventory	Isetan	\N	2013_1	Develop Inventory management System
+Japher Lim-Robotic toys of popular characters.	Japher	\N	2013_2	develop an application to communicate with a (modular) raspberry pi robot.
+Jason's Market Inventory	Jason's Market	\N	2013_2	Develop Inventory management System
+JCB-lab	JCB	\N	2014_1	Analytics on customer data for card recommendation
+Lefty Group-FrontRunner	Lefty	\N	2013_1	Develop a predictive algorithm that runs through historical data and estimate the most probable dates the companies are going to release results.
+Master-lab	Master	\N	2014_2	Analytics on customer data for card recommendation
+Maybank-lab	Maybank	\N	2014_2	Analytics on customer data for product recommendation
+Mobile Air Inventory	Mobile Air	\N	2013_1	Develop Inventory management System
+Museum Visitor System	Accenture	26/8/2013	2013_1	To design and deliver a superior visitor experience for musuems
+NTUC IMS	NTUC	25/1/2014	2013_2	Develop Inventory management System
+NTUC Income Lab	NTUC Income	\N	2014_2	Analytics on customer data for policy recommendation
+NTUC Inventory	NTUC	\N	2014_1	Develop Inventory management System
+NUS-live lab	NUS	\N	2014_1	Mine wi-fi data in NUS to profile student movement patterns
+OCBC-analytics	OCBC	30/8/2013	2013_1	Analytics on customer data for product recommendation
+OCBC-lab	OCBC	\N	2013_2	Analytics on customer data for product recommendation
+Popular Inventory	Popular	\N	2014_1	Develop Inventory management System
+POSB-lab	POSB	\N	2014_2	Analytics on customer data for product recommendation
+Prime Inventory	Prime	\N	2013_1	Develop Inventory management System
+Prudential-lab 	Prudential	\N	2013_1	Analytics on customer data for policy recommendation
+RHB-lab	RHB	\N	2014_1	Analytics on customer data for product recommendation
+RHB-lab 2	RHB	\N	2014_2	Advanced Analytics on customer data for product recommendation
+RWS	Resort World	28/8/2015	2014_1	Develop crowd management system to minimize queuing time
+RWS-crowd management	Resort World	\N	2014_2	Develop crowd managemt system to minimize queuing time
+Sheng Shiong  Inventory	Sheng Shiong	\N	2014_1	Develop Inventory management System
+SingHealth Polyclinics-SingHealth First Shots	Singhealth	\N	2013_1	develop a user-friendly Android smart phone application where care-givers can obtain necessary information on childhood immunizations
+SMU Mindfulness Initiative-ReFokus Meditation App	SMU	\N	2013_1	develop a smartphone app to introduce users to various guided meditation exercises
+SMU-Alexandra Health T-Lab	Alexandra hospital	\N	2014_1	Analytics on patient data to detect outbreaks
+SMU-Alexandra Health T-Lab 2	Alexandra hospital	\N	2014_1	Analytics on patient data to detect outbreaks
+Standard Chartered Bank - iLab@SMU	Standard chartered	\N	2014_1	Analytics on customer data to detect fraud
+Starhub-customer experience	Starhub	\N	2014_2	Analytics on customer data for product recommendation
+Tokio Marine Lab	Tokio Marine	\N	2013_2	Analytics on customer data for policy recommendation
+TTS-Health Lab	Tan Tock Seng	\N	2014_1	Analytics on patient data to detect outbreaks
+UOB-lab	UOB	\N	2014_1	Analytics on customer data for product recommendation
+UOB-lab 2	UOB	\N	2014_2	Advanced Analytics on customer data for product recommendation
+VISA-lab	VISA	\N	2013_1	Analytics on customer data for card recommendation
+VISA-lab 2	VISA	\N	2013_2	Advanced Analytics on customer data for card recommendation
+IS480 SSII	SIS	\N	2015_1	IS480 Scheduling System II
+IS480 MSII	SIS	\N	2015_1	IS480 Management System II
+K2Platform	K2	\N	2015_1	K2 Associates Analytics Platform
+3DTeamTank	SLab	\N	2015_1	3D Team tank room

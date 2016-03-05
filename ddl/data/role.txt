@@ -1,0 +1,6 @@
+Name	Weightage
+Supervisor	50
+
+Primary Reviewer	30
+
+Secondary Reviewer	20
